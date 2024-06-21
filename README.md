@@ -1,28 +1,28 @@
-# ¡Hola, soy Daniela Moreno! 👩‍💻✨
+# Hi, I'm Daniela Moreno! 👩‍💻✨
 
-¡Bienvenido a mi perfil de GitHub! Soy una estudiante entusiasta aprendiendo desarrollo de software y actualmente enfocada en Java. Aquí puedes conocer un poco más sobre mí y mis proyectos:
+Welcome to my GitHub profile! I'm an enthusiastic student learning software development and currently focused on Java. Here you can learn a bit more about me and my projects:
 
-## Sobre mí
-- 👀 Estoy interesada en aprender desarrollo movil y web.
-- 🌱 Actualmente estoy aprendiendo Java, Dart y Flutter.
-- 💞️ Estoy buscando colaborar en proyectos que me permitan resolver situaciones triviales con mayor eficiencia.
-- 😄 Pronombres: Dani.
+## About me
+- 👀 I'm interested in learning mobile and web development.
+- 🌱 Currently, I'm learning Java, Dart, and Flutter.
+- 💞️ I'm looking to collaborate on projects that allow me to solve everyday problems more efficiently.
+- 😄 Pronouns: Dani.
+- ⚡ Fun fact: [Share a fun fact about yourself or your interests.]
 
-## Proyecto Actual: Sistema de Inventario para Vainilla Detalles 📦💼
-Estoy trabajando en un sistema de inventario para la empresa Vainilla Detalles. Este proyecto me está ayudando a mejorar mis habilidades en Java y desarrollo de aplicaciones empresariales.
+## Current Project: Inventory System for Vainilla Detalles 📦💼
+I'm working on an inventory system for the company Vainilla Detalles. This project is helping me improve my skills in Java and enterprise application development.
 
-## Tecnologías que estoy aprendiendo
-Actualmente estoy enfocada en aprender:
+## Technologies I'm Learning
+Currently, I'm focused on learning:
 - Java ☕
-- Git y GitHub 🌐
+- Git and GitHub 🌐
 - Flutter
 - Dart
 
-## Metas a Corto Plazo
-Mis metas a corto plazo incluyen:
-- Finalizar y desplegar exitosamente mi proyecto de sistema de inventario.
-- Aprender a utilizar frameworks o herramientas adicionales relacionadas con Java.
+## Short-Term Goals
+My short-term goals include:
+- Successfully completing and deploying my inventory system project.
+- Learning to use frameworks or additional tools related to Java.
 
-## Contacto
-¡Estoy emocionada por conectar y aprender más en la comunidad de GitHub!
-
+## Contact
+I'm excited to connect and learn more in the GitHub community!
