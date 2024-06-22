@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm an enthusiastic student learning software deve
 - 🌱 Currently, I'm learning Java, Dart, and Flutter.
 - 💞️ I'm looking to collaborate on projects that allow me to solve everyday problems more efficiently.
 - 😄 Pronouns: Dani.
-- ⚡ Fun fact: [Share a fun fact about yourself or your interests.]
 
 ## Current Project: Inventory System for Vainilla Detalles 📦💼
 I'm working on an inventory system for the company Vainilla Detalles. This project is helping me improve my skills in Java and enterprise application development.
